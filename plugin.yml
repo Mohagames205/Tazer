@@ -1,0 +1,12 @@
+name: Tazer
+main: mohagames\Tazer\Main
+version: 1.0.0
+api: 3.0.0
+
+commands:
+  tazer:
+    permission: tazer.give
+
+permissions:
+  tazer.give:
+    default: op
